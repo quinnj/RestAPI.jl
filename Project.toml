@@ -1,0 +1,4 @@
+name = "RestAPI"
+uuid = "67418800-8fbb-4e2d-b41a-269902279704"
+authors = ["Jacob Quinn <quinn.jacobd@gmail.com>"]
+version = "0.1.0"
